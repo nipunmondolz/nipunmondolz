@@ -28,7 +28,7 @@ Currently working across machine learning, Flutter, and the web.
 **[smartedustream](https://github.com/nipunmondolz/smartedustream)** &nbsp;·&nbsp; `Python` `PyTorch` `ASR` `OCR`
 A multimodal pipeline that estimates how difficult an educational video is and shows the evidence behind every decision. Fourteen instrumented stages, traceable evidence routing, and a review queue for the cases it cannot settle alone. Five silent pipeline failures found and fixed — one of them was quietly destroying 40% of the dataset without raising a single error.
 
-**[Sindook](https://github.com/nipunmondolz/Sindook)** &nbsp;·&nbsp; `Flutter` `Dart` `Cryptography`
+**[sindook](https://github.com/nipunmondolz/sindook)** &nbsp;·&nbsp; `Flutter` `Dart` `Cryptography`
 An encrypted file vault for ordinary USB drives. AES-256-GCM with per-file keys, Argon2id key derivation, streaming encryption so multi-gigabyte videos never blow up memory, and encrypted filenames so the manifest gives nothing away. The same vault opens on Windows and Android. 28 tests.
 
 **[fitbalance](https://github.com/nipunmondolz/fitbalance)** &nbsp;·&nbsp; `Flutter` `Dart` `Offline-first`
