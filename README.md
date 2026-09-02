@@ -39,16 +39,6 @@ A note-taking workspace built with no framework at all. Rich text, code blocks, 
 
 ---
 
-### Activity
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nipunmondolz&show_icons=true&hide_border=true&theme=tokyonight&hide_title=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunmondolz&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
-</p>
-
----
-
 ### Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nipunmondolz@gmail.com)
